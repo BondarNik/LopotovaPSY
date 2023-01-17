@@ -266,19 +266,23 @@ font-style: normal;
 font-weight: 500;
 font-size: 18px;
 line-height: 140%;
-color: #000000;
+color: #41c9c7;
 text-decoration: none;
-background: rgba(7, 241, 237, 0.3);
-border: 1px solid #a0dcff;
+background: rgba(255, 255, 255, 0.3);
+border: 1px solid #00B9B6;
 border-radius: 50px;
 padding: 15px 30px;
 }
 
 .butter-2:hover
 {
-    transform: scale(1.04);
-    transition: 0.5s;
+color: #fff;
+background: #41c9c7;
+transition: all .3s linear;
+-webkit-transition: all .3s linear;
+-moz-transition: all .3s linear; 
 }
+
 
 .img-1
 {
